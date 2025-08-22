@@ -1,4 +1,4 @@
-# Module Practical: WEB303 Microservices & Serverless Applications
+# Module Practical: Building and Orchestrating Microservices with Go, gRPC, and Docker
 
 ## Part 1: Set up a development environment for microservices using Go, gRPC, and Docker.
 
@@ -16,7 +16,7 @@
 
    You should see the installed version of Go.
 
-   ![2](../Practical1/images/2.png)
+   ![2](images/2.png)
 
    ```bash
    go env
